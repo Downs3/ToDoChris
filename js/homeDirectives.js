@@ -39,7 +39,7 @@
 
     function tdItemController() {
         var tc = this;
-        tc.index++;
+        //tc.index++;
     }
 
 }());
